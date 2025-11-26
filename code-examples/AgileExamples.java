@@ -140,7 +140,7 @@ class ExtremeProgramming {
     
     // Practice 2: Test-Driven Development (TDD)
     static class TDDCycle {
-        public void writeFailing Test() {
+        public void writeFailingTest() {
             System.out.println("1. RED: Write a failing test");
         }
         
