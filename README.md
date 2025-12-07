@@ -13,6 +13,7 @@
 
 1. :newspaper: Big O Cheatsheet - [Link](https://www.bigocheatsheet.com/)
 2. :computer: [Code Examples](code-examples/AlgorithmsDataStructure.java) - Big O complexity, search algorithms, sorting, data structures
+3. :computer: [DSA Patterns](code-examples/DSAPatterns.java) - Common algorithmic patterns: Two Pointers, Sliding Window, Fast & Slow Pointers, Merge Intervals, Tree BFS/DFS, Top K Elements, Binary Search, Backtracking, Dynamic Programming
 
 ## Java
 

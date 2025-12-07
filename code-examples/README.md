@@ -16,7 +16,27 @@ This directory contains practical Java code examples for each section of the lea
 javac AlgorithmsDataStructure.java && java AlgorithmsDataStructure
 ```
 
-### 2. JavaExamples.java
+### 2. DSAPatterns.java
+**Topics Covered:**
+- **Two Pointers** - Remove duplicates, two sum, palindrome check
+- **Sliding Window** - Maximum sum subarray, longest substring without repeating
+- **Fast & Slow Pointers** - Cycle detection, find middle of linked list
+- **Merge Intervals** - Overlapping intervals
+- **Cyclic Sort** - Finding missing numbers
+- **In-place LinkedList Reversal** - Reverse list and sublists
+- **Tree BFS** - Level order and zigzag traversal
+- **Tree DFS** - Path finding, path sum
+- **Top K Elements** - Using heaps for K largest/most frequent
+- **Modified Binary Search** - Rotated array search, peak element
+- **Backtracking** - Permutations, subsets generation
+- **Dynamic Programming** - Fibonacci, LCS, knapsack
+
+**To run:**
+```bash
+javac DSAPatterns.java && java DSAPatterns
+```
+
+### 3. JavaExamples.java
 **Topics Covered:**
 - Object-Oriented Programming (inheritance, polymorphism)
 - Proper implementation of equals() and hashCode()
@@ -30,7 +50,7 @@ javac AlgorithmsDataStructure.java && java AlgorithmsDataStructure
 javac JavaExamples.java && java JavaExamples
 ```
 
-### 3. TDDTestingExamples.java
+### 4. TDDTestingExamples.java
 **Topics Covered:**
 - AAA (Arrange-Act-Assert) testing pattern
 - FIRST principles (Fast, Independent, Repeatable, Self-validating, Timely)
@@ -43,7 +63,7 @@ javac JavaExamples.java && java JavaExamples
 javac TDDTestingExamples.java && java TDDTestingExamples
 ```
 
-### 4. SoftwareDesignExamples.java
+### 5. SoftwareDesignExamples.java
 **Topics Covered:**
 - SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
 - Design Patterns (Singleton, Factory, Builder, Observer)
@@ -55,7 +75,7 @@ javac TDDTestingExamples.java && java TDDTestingExamples
 javac SoftwareDesignExamples.java && java SoftwareDesignExamples
 ```
 
-### 5. DatabaseExamples.java
+### 6. DatabaseExamples.java
 **Topics Covered:**
 - Database transaction isolation levels
 - ACID properties (Atomicity, Consistency, Isolation, Durability)
@@ -68,7 +88,7 @@ javac SoftwareDesignExamples.java && java SoftwareDesignExamples
 javac DatabaseExamples.java && java DatabaseExamples
 ```
 
-### 6. RESTAPIExamples.java
+### 7. RESTAPIExamples.java
 **Topics Covered:**
 - RESTful API design principles
 - HTTP methods (GET, POST, PUT, PATCH, DELETE)
@@ -82,7 +102,7 @@ javac DatabaseExamples.java && java DatabaseExamples
 javac RESTAPIExamples.java && java RESTAPIExamples
 ```
 
-### 7. SpringFrameworkExamples.java
+### 8. SpringFrameworkExamples.java
 **Topics Covered:**
 - Dependency Injection (DI)
 - Inversion of Control (IoC)
@@ -96,7 +116,7 @@ javac RESTAPIExamples.java && java RESTAPIExamples
 javac SpringFrameworkExamples.java && java SpringFrameworkExamples
 ```
 
-### 8. ScalabilityExamples.java
+### 9. ScalabilityExamples.java
 **Topics Covered:**
 - Vertical vs horizontal scaling
 - Load balancing strategies (Round Robin, Least Connections)
@@ -110,7 +130,7 @@ javac SpringFrameworkExamples.java && java SpringFrameworkExamples
 javac ScalabilityExamples.java && java ScalabilityExamples
 ```
 
-### 9. ArchitectureExamples.java
+### 10. ArchitectureExamples.java
 **Topics Covered:**
 - Monolithic vs microservices architecture
 - Three-tier architecture pattern
@@ -124,7 +144,7 @@ javac ScalabilityExamples.java && java ScalabilityExamples
 javac ArchitectureExamples.java && java ArchitectureExamples
 ```
 
-### 10. DevOpsCloudExamples.java
+### 11. DevOpsCloudExamples.java
 **Topics Covered:**
 - Build tools (Maven, Gradle)
 - Continuous Integration/Continuous Deployment (CI/CD) pipelines
@@ -138,7 +158,7 @@ javac ArchitectureExamples.java && java ArchitectureExamples
 javac DevOpsCloudExamples.java && java DevOpsCloudExamples
 ```
 
-### 11. AgileExamples.java
+### 12. AgileExamples.java
 **Topics Covered:**
 - User stories and sprint planning
 - Extreme Programming (XP) practices
