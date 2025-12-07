@@ -6,11 +6,14 @@
 
 - :video_camera: — Video talk
 - :newspaper: — Text article
--  :book: — Book​ 
+-  :book: — Book​
+- :computer: — [Code Examples](code-examples/) - Practical Java code examples for each section
 
 ## Algorithms and Data Structure
 
 1. :newspaper: Big O Cheatsheet - [Link](https://www.bigocheatsheet.com/)
+2. :computer: [Code Examples](code-examples/AlgorithmsDataStructure.java) - Big O complexity, search algorithms, sorting, data structures
+3. :computer: [DSA Patterns](code-examples/DSAPatterns.java) - Common algorithmic patterns: Two Pointers, Sliding Window, Fast & Slow Pointers, Merge Intervals, Tree BFS/DFS, Top K Elements, Binary Search, Backtracking, Dynamic Programming
 
 ## Java
 
@@ -30,6 +33,7 @@
 14. :newspaper: Asynchronous programming with Java 8 - [Link](https://medium.com/xebia-engineering/asynchronous-programming-with-java-java-8-d71a5323070e)
 15. :newspaper: A Real-world Introduction to Finding classes in Object-oriented Programming Languages - [Link](https://medium.com/xebia-engineering/a-real-world-introduction-to-finding-classes-in-object-oriented-programming-languages-612eae35b802)
 16. :newspaper: Learning Generics by Understanding signature of Collections.copy() method - [Link](https://medium.com/xebia-engineering/learning-generics-by-understanding-signature-of-collections-copy-method-1325a48ecae2)
+17. :computer: [Code Examples](code-examples/JavaExamples.java) - OOP, Generics, Lambdas, Streams, Exception handling, Async programming
 
 ## TDD and Automation Testing
 
@@ -47,6 +51,8 @@
 
 7. :newspaper: Unit Testing — AAA pattern - [Link](https://medium.com/xebia-engineering/unit-testing-aaa-pattern-ab1c08737d53)
 
+8. :computer: [Code Examples](code-examples/TDDTestingExamples.java) - AAA pattern, FIRST principles, mocking, unit testing
+
    
 
 ## Software Design
@@ -58,6 +64,7 @@
 5. :video_camera: Design Patterns - [Link](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
 6. :newspaper:Fluent Interface - [Link](https://martinfowler.com/bliki/FluentInterface.html)
 7. :newspaper: Fluent Builder Pattern with a real-world example - [Link](https://medium.com/xebia-engineering/fluent-builder-pattern-with-a-real-world-example-7b61be375a40)
+8. :computer: [Code Examples](code-examples/SoftwareDesignExamples.java) - SOLID principles, Design Patterns, Immutability, Fluent interfaces
 
 ## Database
 
@@ -67,6 +74,7 @@
 4. :newspaper: Introduction to Database Design - [Link](https://www.datanamic.com/support/lt-dez005-introduction-db-modeling.html)
 5. :newspaper: A beginners guide to SQL - [Link](https://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
 6. :newspaper: How Sharding Works - [Link](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+7. :computer: [Code Examples](code-examples/DatabaseExamples.java) - Isolation levels, ACID vs BASE, CAP theorem, Sharding
 
 ## REST API Design
 
@@ -74,17 +82,20 @@
 2. :newspaper: Best Practices for Designing a Pragmatic RESTful API - [Link](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 3. :newspaper: REST API Error Codes 101 - [Link](https://blog.restcase.com/rest-api-error-codes-101/)
 4. :newspaper: REST with Spring Tutorial - [Link](https://www.baeldung.com/rest-with-spring-series)
+5. :computer: [Code Examples](code-examples/RESTAPIExamples.java) - RESTful design, HTTP methods, status codes, error handling
 
 ## Spring Framework
 
 1. :newspaper: Spring Tutorial - [Link](https://www.baeldung.com/spring-tutorial)​ 
 2. :newspaper: Spring Persistence Tutorial - [Link](https://www.baeldung.com/persistence-with-spring-series)
 3. :newspaper: Security with Spring - [Link](https://www.baeldung.com/security-spring)
+4. :computer: [Code Examples](code-examples/SpringFrameworkExamples.java) - Dependency Injection, IoC, REST controllers, Spring Security, Spring Data
 
 ## Scalability
 
 1. :newspaper: Scale-up or Scale-out, What it is and why you should care - [Link](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
 2. :newspaper: Best Practices For Horizontal Application Scaling - [Link](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
+3. :computer: [Code Examples](code-examples/ScalabilityExamples.java) - Horizontal/Vertical scaling, Load balancing, Caching, Connection pooling
 
 ## Architecture
 
@@ -94,6 +105,7 @@
 4. :newspaper: What is DNS? - [Link](https://www.cloudflare.com/learning/dns/what-is-dns/)
 5. :newspaper:  Content delivery network - [Link](https://en.wikipedia.org/wiki/Content_delivery_network)
 6. :newspaper: A Minimalistic Guide to Building and Deploying Monolithic Spring Boot React Applications - [Link](https://medium.com/xebia-engineering/a-minimalistic-guide-to-building-and-deploying-monolithic-spring-boot-react-applications-39440035b27)
+7. :computer: [Code Examples](code-examples/ArchitectureExamples.java) - Monolith vs Microservices, Three-tier architecture, 12 Factor App, DNS, CDN
 
 ## DevOps and Cloud
 
@@ -106,9 +118,11 @@
 7. :video_camera: AWS Concepts - [Link](https://www.youtube.com/playlist?list=PLv2a_5pNAko2Jl4Ks7V428ttvy-Fj4NKU)
 8. :newspaper: The Kubernetes Guide For Java Developers: Learn Kubernetes by deploying a real-world application on it - [Link](https://medium.com/xebia-engineering/the-kubernetes-guide-for-java-developers-learn-kubernetes-by-deploying-a-real-world-application-35133f72d2e5)
 9. :newspaper: Continuous Integration for Junior Software Engineers - [Link](https://medium.com/xebia-engineering/continuous-integration-for-junior-software-engineers-fbf79b5008bb)
+10. :computer: [Code Examples](code-examples/DevOpsCloudExamples.java) - Build tools, CI/CD pipelines, Docker, Git, AWS, Kubernetes
 
 ## Agile Software Development
 
 1. :newspaper: Extreme programming - [Link](https://en.wikipedia.org/wiki/Extreme_programming)
+2. :computer: [Code Examples](code-examples/AgileExamples.java) - User stories, Sprints, XP practices, Pair programming, TDD, Agile ceremonies
 
    
